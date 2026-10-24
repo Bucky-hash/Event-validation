@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Event-validation</string>
+
+    <string name="title_register">ĐĂNG KÝ SINH VIÊN</string>
+    <string name="hint_name">Họ và tên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_student_id">Mã sinh viên (MSV)</string>
+    <string name="hint_class">Lớp</string>
+    <string name="btn_register">Đăng ký</string>
+    <string name="btn_go_detail">Sang màn hình Chi tiết</string>
+    <string name="snackbar_success">Đăng ký thành công: %1$s</string>
+    <string name="snackbar_action_detail">XEM CHI TIẾT</string>
+
+    <string name="title_detail">CHI TIẾT ĐĂNG KÝ</string>
+    <string name="detail_name">Họ và tên: %1$s</string>
+    <string name="detail_email">Email: %1$s</string>
+    <string name="detail_phone">Số điện thoại: %1$s</string>
+    <string name="detail_student_id">MSV: %1$s</string>
+    <string name="detail_class">Lớp: %1$s</string>
+    <string name="detail_empty">Chưa có dữ liệu đăng ký. Hãy quay lại màn hình Đăng ký và điền thông tin.</string>
+    <string name="btn_back_register">Quay lại màn hình Đăng ký</string>
+</resources>
